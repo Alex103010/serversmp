@@ -1,57 +1,67 @@
-[23:22:42] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[23:22:43] [main/INFO]: Loading 4 mods:
+[23:52:51] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[23:52:51] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 11
 	- minecraft 1.16.5
-[23:22:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serversmp/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:22:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:22:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:22:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:22:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:22:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:22:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:22:47] [main/INFO]: Reloading ResourceManager: Default
-[23:22:48] [Worker-Main-4/INFO]: Loaded 7 recipes
-[23:22:48] [Worker-Main-4/INFO]: Loaded 927 advancements
-[23:22:50] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[23:22:50] [Server thread/INFO]: Loading properties
-[23:22:50] [Server thread/INFO]: Default game type: SURVIVAL
-[23:22:50] [Server thread/INFO]: Generating keypair
-[23:22:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:22:51] [Server thread/INFO]: Using epoll channel type
-[23:22:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:22:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:22:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:22:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:22:51] [Server thread/INFO]: Preparing level "world"
-[23:22:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:54] [Server thread/INFO]: Preparing spawn area: 0%
-[23:22:57] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:57] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[23:22:57] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:57] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:57] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:57] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:57] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[23:22:58] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[23:22:58] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:59] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:22:59] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[23:23:00] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[23:23:00] [Worker-Main-4/INFO]: Preparing spawn area: 84%
-[23:23:01] [Server thread/INFO]: Preparing spawn area: 86%
-[23:23:01] [Worker-Main-6/INFO]: Preparing spawn area: 88%
-[23:23:02] [Server thread/INFO]: Preparing spawn area: 91%
-[23:23:02] [Worker-Main-6/INFO]: Preparing spawn area: 95%
-[23:23:03] [Server thread/INFO]: Preparing spawn area: 99%
-[23:23:03] [Server thread/INFO]: Time elapsed: 12012 ms
-[23:23:03] [Server thread/INFO]: Done (12.106s)! For help, type "help"
-[23:27:05] [Server thread/INFO]: GloriaaLol[/127.117.17.135:57573] logged in with entity id 101 at (231.5, 63.0, -177.5)
-[23:27:05] [Server thread/INFO]: GloriaaLol joined the game
+[23:52:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serversmp/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:52:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:52:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:52:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:52:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:52:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:52:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:52:55] [main/INFO]: Reloading ResourceManager: Default
+[23:52:56] [Worker-Main-4/INFO]: Loaded 7 recipes
+[23:52:57] [Worker-Main-4/INFO]: Loaded 927 advancements
+[23:52:59] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:52:59] [Server thread/INFO]: Loading properties
+[23:52:59] [Server thread/INFO]: Default game type: SURVIVAL
+[23:52:59] [Server thread/INFO]: Generating keypair
+[23:53:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:53:00] [Server thread/INFO]: Using epoll channel type
+[23:53:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:53:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:53:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:53:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:53:00] [Server thread/INFO]: Preparing level "world"
+[23:53:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:53:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:53:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:53:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:53:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:53:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[23:53:07] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[23:53:08] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[23:53:08] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[23:53:09] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[23:53:09] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[23:53:10] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[23:53:10] [Worker-Main-5/INFO]: Preparing spawn area: 92%
+[23:53:11] [Worker-Main-5/INFO]: Preparing spawn area: 95%
+[23:53:11] [Worker-Main-5/INFO]: Preparing spawn area: 96%
+[23:53:12] [Server thread/INFO]: Preparing spawn area: 99%
+[23:53:12] [Server thread/INFO]: Time elapsed: 11552 ms
+[23:53:12] [Server thread/INFO]: Done (11.744s)! For help, type "help"
+[23:53:54] [Server thread/INFO]: Stopping the server
+[23:53:54] [Server thread/INFO]: Stopping server
+[23:53:54] [Server thread/INFO]: Saving players
+[23:53:54] [Server thread/INFO]: Saving worlds
+[23:53:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
