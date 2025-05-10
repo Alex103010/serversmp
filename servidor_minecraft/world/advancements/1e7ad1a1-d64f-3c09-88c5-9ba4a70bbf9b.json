@@ -447,7 +447,8 @@
       "mutton": "2025-05-10 00:24:38 +0000",
       "bread": "2025-05-10 00:51:32 +0000",
       "rotten_flesh": "2025-05-10 00:36:09 +0000",
-      "cooked_salmon": "2025-05-10 00:25:44 +0000"
+      "cooked_salmon": "2025-05-10 00:25:44 +0000",
+      "carrot": "2025-05-10 16:34:44 +0000"
     },
     "done": false
   },
@@ -1985,6 +1986,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-05-10 16:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-10 16:34:41 +0000"
     },
     "done": true
   },
