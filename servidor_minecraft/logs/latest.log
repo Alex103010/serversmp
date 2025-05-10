@@ -197,3 +197,16 @@ java.lang.NullPointerException: null
 [16:03:21] [Server thread/INFO]: Eldemogorgon500 was slain by Shulker
 [16:04:09] [Server thread/INFO]: [GloriaaLol: Gave 200 [Bread] to 2]
 [16:04:09] [Server thread/INFO]: Eldemogorgon500 was slain by Silverfish
+[16:06:07] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
+[16:08:30] [Server thread/WARN]: Eldemogorgon500 moved too quickly! -1412.6759903620375,20.26590000152588,-1108.2627122523872
+[16:08:30] [Server thread/WARN]: Entity class_3222['Eldemogorgon500'/2839, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[16:10:10] [Server thread/INFO]: GloriaaLol has reached the goal [Sky's the Limit]
+[16:10:37] [Server thread/INFO]: GloriaaLol has made the advancement [Local Brewery]
+[16:12:09] [Server thread/INFO]: Eldemogorgon500 was slain by Silverfish
+[16:12:38] [Server thread/INFO]: Eldemogorgon500 was burnt to a crisp whilst fighting Silverfish
+[16:13:10] [Server thread/INFO]: Eldemogorgon500 was slain by Silverfish
+[16:13:24] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava to escape Silverfish
+[16:13:34] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
+[16:14:36] [Server thread/INFO]: Eldemogorgon500 was burnt to a crisp whilst fighting Silverfish
+[16:15:02] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava to escape Silverfish
+[16:15:46] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava to escape Silverfish
