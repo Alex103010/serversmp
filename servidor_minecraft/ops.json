@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "1e7ad1a1-d64f-3c09-88c5-9ba4a70bbf9b",
+    "name": "GloriaaLol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9a0a75aa-6c56-39b8-9f6a-3fc3edbbfb2b",
+    "name": "Eldemogorgon500",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,4 +1,5 @@
-[00:00:39] [main/INFO]: Loading 67 mods:
+[15:25:25] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
+[15:25:25] [main/INFO]: Loading 67 mods:
 	- appleskin 2.5.1+mc1.16.5
 	- cardinal-components 2.8.3
 	   |-- cardinal-components-base 2.8.3
@@ -82,160 +83,69 @@
 	   \-- reach-entity-attributes 1.1.1
 	- xaerominimap 25.2.0
 	- xaeroworldmap 1.39.4
-[00:00:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serversmp/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:00:39] [main/WARN]: Registration of InjectionPoint APPLESKIN_IINC with squeek.appleskin.mixin.util.BeforeInc without specifying namespace is deprecated.
-[00:00:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:00:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[00:00:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[00:00:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[00:00:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[00:00:47] [main/INFO]: Starting datagen in: /workspaces/serversmp/src/generated/resources
-[00:00:47] [main/INFO]: Starting provider: RecipeDataProvider
-[00:00:47] [main/INFO]: RecipeDataProvider finished after 139 ms
-[00:00:47] [main/INFO]: Starting provider: LootTableDataProvider
-[00:00:47] [main/INFO]: LootTableDataProvider finished after 72 ms
-[00:00:47] [main/INFO]: All providers took: 216 ms
-[00:00:47] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:00:47] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[00:00:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:00:49] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[00:00:49] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[00:00:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:00:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:00:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:00:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:00:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:00:49] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1), Traveler's Backpack)
-[00:00:50] [Worker-Main-4/INFO]: Loaded 7 recipes
-[00:00:51] [Worker-Main-4/INFO]: Loaded 1114 advancements
-[00:00:54] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 4.886 ms
-[00:00:54] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:00:54] [Server thread/INFO]: Loading properties
-[00:00:54] [Server thread/INFO]: Default game type: SURVIVAL
-[00:00:54] [Server thread/INFO]: Generating keypair
-[00:00:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:00:54] [Server thread/INFO]: Using epoll channel type
-[00:00:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:00:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:00:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:00:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:00:55] [Server thread/INFO]: Preparing level "world"
-[00:00:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:00:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:00:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:00:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:00:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:00:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:00:58] [Server thread/INFO]: Preparing spawn area: 0%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[00:01:02] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[00:01:03] [Worker-Main-4/INFO]: Preparing spawn area: 91%
-[00:01:03] [Worker-Main-5/INFO]: Preparing spawn area: 91%
-[00:01:04] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[00:01:04] [Worker-Main-5/INFO]: Preparing spawn area: 91%
-[00:01:05] [Worker-Main-4/INFO]: Preparing spawn area: 91%
-[00:01:06] [Worker-Main-6/INFO]: Preparing spawn area: 92%
-[00:01:06] [Worker-Main-6/INFO]: Preparing spawn area: 93%
-[00:01:06] [Worker-Main-5/INFO]: Preparing spawn area: 93%
-[00:01:07] [Server thread/INFO]: Preparing spawn area: 94%
-[00:01:07] [Worker-Main-4/INFO]: Preparing spawn area: 96%
-[00:01:08] [Worker-Main-5/INFO]: Preparing spawn area: 98%
-[00:01:08] [Server thread/INFO]: Time elapsed: 13384 ms
-[00:01:08] [Server thread/INFO]: Done (13.567s)! For help, type "help"
-[00:01:08] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:01:08] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[00:05:43] [Server thread/INFO]: GloriaaLol[/127.117.17.135:56037] logged in with entity id 224 at (236.6394757606342, 63.0, -177.6622990273689)
-[00:05:43] [Server thread/INFO]: GloriaaLol joined the game
-[00:06:02] [Server thread/INFO]: GloriaaLol lost connection: Disconnected
-[00:06:02] [Server thread/INFO]: GloriaaLol left the game
-[00:13:40] [Server thread/INFO]: GloriaaLol[/127.117.17.135:41923] logged in with entity id 231 at (236.6394757606342, 63.0, -177.6622990273689)
-[00:13:40] [Server thread/INFO]: GloriaaLol joined the game
-[00:13:49] [Server thread/INFO]: MATHI_XD[/127.142.156.224:37089] logged in with entity id 260 at (226.5, 63.0, -175.5)
-[00:13:49] [Server thread/INFO]: MATHI_XD joined the game
-[00:14:49] [Server thread/INFO]: GloriaaLol has made the advancement [Monster Hunter]
-[00:16:43] [Server thread/INFO]: MATHI_XD was slain by GloriaaLol
-[00:18:45] [Server thread/INFO]: MATHI_XD lost connection: Disconnected
-[00:18:45] [Server thread/INFO]: MATHI_XD left the game
-[00:19:19] [Server thread/INFO]: Seed: [4851897777716462445]
-[00:20:19] [Server thread/INFO]: MATHI_XD[/127.142.156.224:49095] logged in with entity id 1003 at (228.3509626723695, 63.0, -185.69999998807907)
-[00:20:19] [Server thread/INFO]: MATHI_XD joined the game
-[00:25:07] [Server thread/INFO]: MATHI_XD lost connection: Disconnected
-[00:25:07] [Server thread/INFO]: MATHI_XD left the game
-[00:25:23] [Server thread/INFO]: GloriaaLol has made the advancement [Acquire Hardware]
-[00:27:07] [Server thread/INFO]: MATHI_XD[/127.142.156.224:38757] logged in with entity id 2007 at (206.31721664342143, 66.0, -291.1384683427588)
-[00:27:07] [Server thread/INFO]: MATHI_XD joined the game
-[00:27:28] [Server thread/INFO]: GloriaaLol has made the advancement [Suit Up]
-[00:27:30] [Server thread/INFO]: MATHI_XD has made the advancement [Suit Up]
-[00:28:19] [Server thread/WARN]: MATHI_XD was kicked for floating too long!
-[00:28:19] [Server thread/INFO]: MATHI_XD lost connection: Disconnected
-[00:28:19] [Server thread/INFO]: MATHI_XD left the game
-[00:28:19] [Server thread/WARN]: handleDisconnection() called twice
-[00:28:26] [Server thread/INFO]: MATHI_XD[/127.142.156.224:39791] logged in with entity id 2222 at (233.0581889104375, 72.7531999805212, -275.0259346046522)
-[00:28:26] [Server thread/INFO]: MATHI_XD joined the game
-[00:28:53] [Server thread/INFO]: GloriaaLol has made the advancement [Stone Age]
-[00:28:57] [Server thread/INFO]: MATHI_XD has made the advancement [Stone Age]
-[00:29:08] [Server thread/INFO]: GloriaaLol has made the advancement [Getting an Upgrade]
-[00:30:26] [Server thread/INFO]: MATHI_XD was blown up by Creeper
-[00:33:23] [Server thread/INFO]: GloriaaLol was blown up by Creeper
-[00:35:09] [Server thread/INFO]: MATHI_XD has made the advancement [Monster Hunter]
-[00:39:14] [Server thread/INFO]: GloriaaLol lost connection: Disconnected
-[00:39:14] [Server thread/INFO]: GloriaaLol left the game
-[00:39:21] [Server thread/INFO]: GloriaaLol[/127.117.17.135:42069] logged in with entity id 4365 at (449.0046811341863, 70.0, -267.59051901791645)
-[00:39:21] [Server thread/INFO]: GloriaaLol joined the game
-[00:44:55] [Server thread/INFO]: <MATHI_XD> XD
-[00:45:08] [Server thread/INFO]: <MATHI_XD> -_-
-[00:45:11] [Server thread/INFO]: <GloriaaLol> xd
-[00:46:24] [Server thread/INFO]: MATHI_XD lost connection: Disconnected
-[00:46:24] [Server thread/INFO]: MATHI_XD left the game
-[00:50:14] [Server thread/INFO]: GloriaaLol has made the advancement [Sweet Dreams]
-[00:57:03] [Server thread/INFO]: GloriaaLol has made the advancement [What a Deal!]
-[01:05:32] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:39937] logged in with entity id 10218 at (226.5, 63.0, -176.5)
-[01:05:32] [Server thread/INFO]: Eldemogorgon500 joined the game
-[01:05:34] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[01:05:34] [Server thread/INFO]: Eldemogorgon500 left the game
-[01:05:49] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:59675] logged in with entity id 10362 at (226.5, 63.0, -176.5)
-[01:05:49] [Server thread/INFO]: Eldemogorgon500 joined the game
-[01:05:50] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[01:05:50] [Server thread/INFO]: Eldemogorgon500 left the game
-[01:06:12] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:34601] logged in with entity id 10444 at (226.5, 63.0, -176.5)
-[01:06:12] [Server thread/INFO]: Eldemogorgon500 joined the game
-[01:06:13] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[01:06:13] [Server thread/INFO]: Eldemogorgon500 left the game
-[01:12:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=716, y=69, z=569} class_2338{x=716, y=67, z=569}
-[01:14:53] [Server thread/INFO]: GloriaaLol lost connection: Disconnected
-[01:14:53] [Server thread/INFO]: GloriaaLol left the game
-[01:21:51] [Server thread/INFO]: GloriaaLol[/127.117.17.135:44275] logged in with entity id 11304 at (722.6047070916885, 68.0, 569.7803286870887)
-[01:21:51] [Server thread/INFO]: GloriaaLol joined the game
-[01:22:28] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:58793] logged in with entity id 11581 at (226.5, 63.0, -176.5)
-[01:22:28] [Server thread/INFO]: Eldemogorgon500 joined the game
-[01:22:57] [Server thread/INFO]: Teleported Eldemogorgon500 to GloriaaLol
-[01:24:43] [Server thread/INFO]: GloriaaLol has made the advancement [Isn't It Iron Pick]
-[01:27:10] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Getting an Upgrade]
-[01:27:56] [Server thread/INFO]: GloriaaLol lost connection: Disconnected
-[01:27:56] [Server thread/INFO]: GloriaaLol left the game
-[01:28:02] [Server thread/INFO]: Eldemogorgon500 was slain by Zombie
-[01:29:50] [Server thread/INFO]: Eldemogorgon500 fell from a high place
-[01:30:37] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:31:21] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:31:43] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:31:56] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:32:28] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:32:54] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:33:40] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Acquire Hardware]
-[01:33:57] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Sweet Dreams]
-[01:34:42] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:35:37] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[01:39:28] [Server thread/INFO]: Eldemogorgon500 was slain by Zombie
-[01:48:12] [Server thread/INFO]: Eldemogorgon500 fell out of the world
-[01:48:12] [Server thread/INFO]: Killed Eldemogorgon500
-[01:48:37] [Server thread/INFO]: Eldemogorgon500 fell out of the world
-[01:48:37] [Server thread/INFO]: Killed Eldemogorgon500
-[01:49:24] [Server thread/INFO]: Gave 64 [Iron Ingot] to Eldemogorgon500
+[15:25:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serversmp/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:25:26] [main/WARN]: Registration of InjectionPoint APPLESKIN_IINC with squeek.appleskin.mixin.util.BeforeInc without specifying namespace is deprecated.
+[15:25:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[15:25:31] [main/INFO]: Starting datagen in: /workspaces/serversmp/src/generated/resources
+[15:25:31] [main/INFO]: Starting provider: RecipeDataProvider
+[15:25:31] [main/INFO]: RecipeDataProvider finished after 126 ms
+[15:25:31] [main/INFO]: Starting provider: LootTableDataProvider
+[15:25:31] [main/INFO]: LootTableDataProvider finished after 77 ms
+[15:25:31] [main/INFO]: All providers took: 209 ms
+[15:25:31] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15:25:31] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15:25:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:25:33] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[15:25:33] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:25:33] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1), Traveler's Backpack)
+[15:25:34] [Worker-Main-6/INFO]: Loaded 7 recipes
+[15:25:34] [Worker-Main-6/INFO]: Loaded 1114 advancements
+[15:25:36] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.673 ms
+[15:25:36] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[15:25:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:25:37] [Server thread/INFO]: Loading properties
+[15:25:37] [Server thread/INFO]: Default game type: SURVIVAL
+[15:25:37] [Server thread/INFO]: Generating keypair
+[15:25:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:25:37] [Server thread/INFO]: Using epoll channel type
+[15:25:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:25:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:25:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:25:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:25:37] [Server thread/INFO]: Preparing level "world"
+[15:25:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:25:43] [Worker-Main-4/INFO]: Preparing spawn area: 98%
+[15:25:44] [Server thread/INFO]: Preparing spawn area: 98%
+[15:25:44] [Worker-Main-4/INFO]: Preparing spawn area: 98%
+[15:25:45] [Server thread/INFO]: Time elapsed: 7433 ms
+[15:25:45] [Server thread/INFO]: Done (7.604s)! For help, type "help"
+[15:25:45] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15:25:45] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15:26:53] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:40869] logged in with entity id 108 at (-15.660932856542825, 63.0, 18.300829093518875)
+[15:26:54] [Server thread/INFO]: Eldemogorgon500 joined the game
+[15:26:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:26:55] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:28:16] [Server thread/INFO]: GloriaaLol[/127.117.17.135:52425] logged in with entity id 242 at (-25.909517692096603, 62.0, 31.874911163025537)
+[15:28:16] [Server thread/INFO]: GloriaaLol joined the game
+[15:33:39] [Server thread/WARN]: Eldemogorgon500 moved too quickly! -1412.1809230633896,20.392604549951344,-1108.8372960980046
