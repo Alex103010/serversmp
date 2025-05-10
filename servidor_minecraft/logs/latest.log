@@ -154,3 +154,37 @@
 [15:36:44] [Server thread/INFO]: GloriaaLol was slain by Enderman
 [15:36:44] [Server thread/INFO]: Created new backpack backup file for GloriaaLol with unique ID 80156872-1693-4455-be94-f70744fca1fa
 [15:36:44] [Server thread/INFO]: Your backpack has been placed at X: -644 Y: 60 Z: 813
+[15:48:56] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
+[15:48:56] [Server thread/INFO]: Eldemogorgon500 left the game
+[15:49:13] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:51433] logged in with entity id 2839 at (-662.9935411427443, -99.16542966228938, 1545.3445861016453)
+[15:49:13] [Server thread/INFO]: Eldemogorgon500 joined the game
+[15:49:14] [Server thread/INFO]: Eldemogorgon500 fell out of the world
+[15:49:14] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID 214f504b-e5d5-495f-8306-577ebc85bd6f
+[15:49:14] [Server thread/INFO]: There's no space for backpack. Dropping backpack item at X: -663 Y: 5 Z: 1545
+[15:49:15] [Server thread/INFO]: [GloriaaLol: Teleported Eldemogorgon500 to GloriaaLol]
+[15:49:16] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2828$class_2830.method_11054(class_2828.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[15:49:44] [Server thread/WARN]: GloriaaLol moved too quickly! 7.502793340241283,-1.0,-7.710600544596218
+[15:49:53] [Server thread/INFO]: [GloriaaLol: Teleported Eldemogorgon500 to GloriaaLol]
+[15:50:01] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Suit Up]
+[15:54:33] [Server thread/WARN]: GloriaaLol moved too quickly! -7.677772337528609,0.0,-7.976971266548162
