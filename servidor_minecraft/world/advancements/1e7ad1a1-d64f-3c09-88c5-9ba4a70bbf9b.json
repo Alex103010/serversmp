@@ -998,11 +998,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-10 16:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-10 00:32:13 +0000",
       "minecraft:spider": "2025-05-10 00:37:39 +0000",
       "minecraft:creeper": "2025-05-10 03:04:58 +0000",
+      "minecraft:witch": "2025-05-10 16:38:28 +0000",
       "minecraft:shulker": "2025-05-10 16:00:40 +0000",
       "minecraft:piglin": "2025-05-10 02:08:23 +0000",
       "minecraft:enderman": "2025-05-10 03:15:28 +0000",
@@ -1572,6 +1579,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-05-10 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-10 16:38:29 +0000"
     },
     "done": true
   },
