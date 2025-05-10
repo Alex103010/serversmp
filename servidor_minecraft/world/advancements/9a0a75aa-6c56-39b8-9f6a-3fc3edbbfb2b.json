@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-10 19:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-10 02:01:00 +0000"
@@ -369,6 +375,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-10 02:22:28 +0000",
       "chorus_fruit": "2025-05-10 15:46:40 +0000",
+      "cooked_beef": "2025-05-10 20:02:45 +0000",
       "beef": "2025-05-10 02:59:28 +0000",
       "apple": "2025-05-10 02:16:48 +0000",
       "mutton": "2025-05-10 02:52:42 +0000",
@@ -1308,6 +1315,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-10 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-10 20:04:08 +0000"
     },
     "done": true
   },
