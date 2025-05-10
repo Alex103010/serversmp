@@ -241,3 +241,9 @@ java.lang.NullPointerException: null
 [20:09:05] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
 [20:09:05] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID a3141c8f-d52d-4d4f-ae8b-50655b82caa4
 [20:09:05] [Server thread/INFO]: Your backpack has been placed at X: 678 Y: 68 Z: 518
+[20:21:18] [Server thread/INFO]: Villager class_1646['Villager'/28356, l='ServerLevel[world]', x=718.70, y=63.80, z=594.70] died, message: 'Villager was slain by Zombie'
+[20:22:10] [Server thread/INFO]: Villager class_1646['Farmer'/28350, l='ServerLevel[world]', x=727.30, y=68.00, z=568.54] died, message: 'Farmer was slain by Zombie'
+[20:23:11] [Server thread/INFO]: Villager class_1646['Butcher'/28370, l='ServerLevel[world]', x=761.99, y=63.00, z=542.30] died, message: 'Butcher was slain by Zombie'
+[20:23:15] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
+[20:23:15] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID e05aae73-e2ce-4204-9d3c-b67a302ad9c7
+[20:23:15] [Server thread/INFO]: Your backpack has been placed at X: 720 Y: 68 Z: 568
