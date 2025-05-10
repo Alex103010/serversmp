@@ -247,3 +247,16 @@ java.lang.NullPointerException: null
 [20:23:15] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
 [20:23:15] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID e05aae73-e2ce-4204-9d3c-b67a302ad9c7
 [20:23:15] [Server thread/INFO]: Your backpack has been placed at X: 720 Y: 68 Z: 568
+[20:39:53] [Server thread/INFO]: Eldemogorgon500 was slain by Zombified Piglin
+[20:39:53] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID 648eaa13-8e87-4920-ada7-d764f15da1c8
+[20:39:53] [Server thread/INFO]: Your backpack has been placed at X: 148 Y: 44 Z: 25
+[20:44:07] [Server thread/WARN]: Eldemogorgon500 moved too quickly! 0.5429982563958902,-10.527779342547746,-0.6595106839892111
+[20:44:09] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
+[20:44:09] [Server thread/INFO]: Eldemogorgon500 left the game
+[20:44:18] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:45493] logged in with entity id 33840 at (145.473247805058, 27.005735882505128, 53.597761407370335)
+[20:44:18] [Server thread/INFO]: Eldemogorgon500 joined the game
+[20:44:22] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
+[20:44:22] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID bafe091f-48fd-45d6-8f91-f33ba25ff493
+[20:44:22] [Server thread/INFO]: Your backpack has been placed at X: 145 Y: 27 Z: 53
+[20:44:46] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
+[20:44:46] [Server thread/INFO]: Eldemogorgon500 left the game
