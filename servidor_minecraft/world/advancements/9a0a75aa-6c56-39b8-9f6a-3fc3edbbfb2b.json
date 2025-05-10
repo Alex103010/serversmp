@@ -825,6 +825,7 @@
     "criteria": {
       "minecraft:ender_dragon": "2025-05-10 03:39:58 +0000",
       "minecraft:enderman": "2025-05-10 03:20:52 +0000",
+      "minecraft:silverfish": "2025-05-10 16:05:22 +0000",
       "minecraft:zombie": "2025-05-10 02:04:48 +0000"
     },
     "done": false
@@ -1333,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-10 16:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-10 01:37:35 +0000"
@@ -1378,6 +1385,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-10 16:00:43 +0000"
     },
     "done": true
   },
