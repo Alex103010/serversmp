@@ -1245,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-10 19:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-10 02:50:58 +0000"
@@ -1356,6 +1362,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-10 01:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-10 19:38:30 +0000"
     },
     "done": true
   },
@@ -1631,6 +1643,7 @@
       "minecraft:taiga_hills": "2025-05-10 03:09:59 +0000",
       "minecraft:dark_forest": "2025-05-10 16:36:27 +0000",
       "minecraft:river": "2025-05-10 02:50:17 +0000",
+      "minecraft:wooded_mountains": "2025-05-10 19:44:24 +0000",
       "minecraft:wooded_hills": "2025-05-10 02:53:03 +0000",
       "minecraft:swamp": "2025-05-10 16:38:14 +0000",
       "minecraft:plains": "2025-05-10 01:05:32 +0000"
@@ -1652,6 +1665,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-10 03:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-10 19:38:30 +0000"
     },
     "done": true
   },
