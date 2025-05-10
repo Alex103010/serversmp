@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-10 00:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-10 00:28:47 +0000"
@@ -83,11 +89,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-10 00:28:48 +0000",
       "minecraft:beach": "2025-05-10 00:21:29 +0000",
       "minecraft:dark_forest": "2025-05-10 00:15:01 +0000",
+      "minecraft:river": "2025-05-10 00:45:45 +0000",
       "minecraft:plains": "2025-05-10 00:13:49 +0000"
     },
     "done": false
@@ -218,6 +231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-10 00:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-10 00:16:43 +0000"
@@ -278,6 +297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-10 00:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-10 00:15:07 +0000"
@@ -327,6 +352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-10 00:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-10 00:15:26 +0000"
@@ -372,6 +403,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-10 00:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-10 00:46:04 +0000"
     },
     "done": true
   },
