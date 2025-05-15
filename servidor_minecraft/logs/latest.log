@@ -1,262 +1,100 @@
-[15:25:25] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.3
-[15:25:25] [main/INFO]: Loading 67 mods:
-	- appleskin 2.5.1+mc1.16.5
-	- cardinal-components 2.8.3
-	   |-- cardinal-components-base 2.8.3
-	   |-- cardinal-components-block 2.8.3
-	   |-- cardinal-components-chunk 2.8.3
-	   |-- cardinal-components-entity 2.8.3
-	   |-- cardinal-components-item 2.8.3
-	   |-- cardinal-components-level 2.8.3
-	   |-- cardinal-components-scoreboard 2.8.3
-	   |-- cardinal-components-util 2.8.3
-	   \-- cardinal-components-world 2.8.3
-	- cloth-api 1.6.59
-	   |-- cloth-armor-api-v1 1.6.59
-	   |-- cloth-client-events-v0 1.6.59
-	   |-- cloth-common-events-v1 1.6.59
-	   |-- cloth-datagen-api-v1 1.6.59
-	   |-- cloth-durability-bar-api-v1 1.6.59
-	   |-- cloth-dynamic-registry-api-v1 1.6.59
-	   |-- cloth-scissors-api-v1 1.6.59
-	   \-- cloth-utils-v1 1.6.59
-	- cloth-config2 4.17.132
-	   \-- cloth-basic-math 0.6.1
-	- fabric 0.42.0+1.16
-	   |-- fabric-api-base 0.4.0+3cc0f0907d
-	   |-- fabric-api-lookup-api-v1 1.3.1+3cc0f0907d
-	   |-- fabric-biome-api-v1 3.1.13+3cc0f0907d
-	   |-- fabric-blockrenderlayer-v1 1.1.6+3cc0f0907d
-	   |-- fabric-command-api-v1 1.1.3+3cc0f0907d
-	   |-- fabric-commands-v0 0.2.3+3cc0f0907d
-	   |-- fabric-containers-v0 0.1.12+3cc0f0907d
-	   |-- fabric-content-registries-v0 0.2.5+3cc0f0907d
-	   |-- fabric-crash-report-info-v1 0.1.4+3cc0f0907d
-	   |-- fabric-dimensions-v1 2.0.8+3cc0f0907d
-	   |-- fabric-entity-events-v1 1.2.4+3cc0f0907d
-	   |-- fabric-events-interaction-v0 0.4.5+3cc0f0907d
-	   |-- fabric-events-lifecycle-v0 0.2.2+3cc0f0907d
-	   |-- fabric-game-rule-api-v1 1.0.7+3cc0f0907d
-	   |-- fabric-item-api-v1 1.2.2+3cc0f0907d
-	   |-- fabric-item-groups-v0 0.3.1+3cc0f0907d
-	   |-- fabric-key-binding-api-v1 1.0.5+3cc0f0907d
-	   |-- fabric-keybindings-v0 0.2.2+3cc0f0907d
-	   |-- fabric-lifecycle-events-v1 1.2.2+3cc0f0907d
-	   |-- fabric-loot-tables-v1 1.0.3+3cc0f0907d
-	   |-- fabric-mining-levels-v0 0.1.4+3cc0f0907d
-	   |-- fabric-models-v0 0.3.1+3cc0f0907d
-	   |-- fabric-networking-api-v1 1.0.5+3cc0f0907d
-	   |-- fabric-networking-blockentity-v0 0.2.9+3cc0f0907d
-	   |-- fabric-networking-v0 0.3.3+3cc0f0907d
-	   |-- fabric-object-builder-api-v1 1.9.6+3cc0f0907d
-	   |-- fabric-object-builders-v0 0.7.3+3cc0f0907d
-	   |-- fabric-particles-v1 0.2.5+3cc0f0907d
-	   |-- fabric-registry-sync-v0 0.7.6+3cc0f0907d
-	   |-- fabric-renderer-api-v1 0.4.5+3cc0f0907d
-	   |-- fabric-renderer-indigo 0.4.5+3cc0f0907d
-	   |-- fabric-renderer-registries-v1 2.3.1+3cc0f0907d
-	   |-- fabric-rendering-data-attachment-v1 0.1.6+3cc0f0907d
-	   |-- fabric-rendering-fluids-v1 0.1.15+3cc0f0907d
-	   |-- fabric-rendering-v0 1.1.3+3cc0f0907d
-	   |-- fabric-rendering-v1 1.6.1+3cc0f0907d
-	   |-- fabric-resource-loader-v0 0.4.8+3cc0f0907d
-	   |-- fabric-screen-api-v1 1.0.1+3cc0f0907d
-	   |-- fabric-screen-handler-api-v1 1.1.6+3cc0f0907d
-	   |-- fabric-structure-api-v1 1.1.12+3cc0f0907d
-	   |-- fabric-tag-extensions-v0 1.1.2+3cc0f0907d
-	   |-- fabric-textures-v0 1.0.7+3cc0f0907d
-	   |-- fabric-tool-attribute-api-v1 1.2.8+3cc0f0907d
-	   \-- fabric-transfer-api-v1 1.5.0+3cc0f0907d
-	- fabricloader 0.16.3
-	   \-- mixinextras 0.4.1
-	- java 11
-	- minecraft 1.16.5
-	- roughlyenoughitems 5.13.734
-	   |-- cloth-client-events-v0 1.6.59
-	   |-- roughlyenoughitems-api 5.13.734
-	   |    \-- cloth-client-events-v0 1.6.59
-	   |-- roughlyenoughitems-default-plugin 5.13.734
-	   |    \-- cloth-client-events-v0 1.6.59
-	   \-- roughlyenoughitems-runtime 5.13.734
-	        \-- cloth-client-events-v0 1.6.59
-	- travelersbackpack 1.16.5-5.4.38
-	   \-- reach-entity-attributes 1.1.1
-	- xaerominimap 25.2.0
-	- xaeroworldmap 1.39.4
-[15:25:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serversmp/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:25:26] [main/WARN]: Registration of InjectionPoint APPLESKIN_IINC with squeek.appleskin.mixin.util.BeforeInc without specifying namespace is deprecated.
-[15:25:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[15:25:31] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[15:25:31] [main/INFO]: Starting datagen in: /workspaces/serversmp/src/generated/resources
-[15:25:31] [main/INFO]: Starting provider: RecipeDataProvider
-[15:25:31] [main/INFO]: RecipeDataProvider finished after 126 ms
-[15:25:31] [main/INFO]: Starting provider: LootTableDataProvider
-[15:25:31] [main/INFO]: LootTableDataProvider finished after 77 ms
-[15:25:31] [main/INFO]: All providers took: 209 ms
-[15:25:31] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[15:25:31] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[15:25:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:25:33] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[15:25:33] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:25:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:25:33] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1), Traveler's Backpack)
-[15:25:34] [Worker-Main-6/INFO]: Loaded 7 recipes
-[15:25:34] [Worker-Main-6/INFO]: Loaded 1114 advancements
-[15:25:36] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.673 ms
-[15:25:36] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[15:25:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[15:25:37] [Server thread/INFO]: Loading properties
-[15:25:37] [Server thread/INFO]: Default game type: SURVIVAL
-[15:25:37] [Server thread/INFO]: Generating keypair
-[15:25:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:25:37] [Server thread/INFO]: Using epoll channel type
-[15:25:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:25:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:25:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:25:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:25:37] [Server thread/INFO]: Preparing level "world"
-[15:25:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:25:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[15:25:43] [Worker-Main-4/INFO]: Preparing spawn area: 98%
-[15:25:44] [Server thread/INFO]: Preparing spawn area: 98%
-[15:25:44] [Worker-Main-4/INFO]: Preparing spawn area: 98%
-[15:25:45] [Server thread/INFO]: Time elapsed: 7433 ms
-[15:25:45] [Server thread/INFO]: Done (7.604s)! For help, type "help"
-[15:25:45] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[15:25:45] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[15:26:53] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:40869] logged in with entity id 108 at (-15.660932856542825, 63.0, 18.300829093518875)
-[15:26:54] [Server thread/INFO]: Eldemogorgon500 joined the game
-[15:26:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[15:26:55] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[15:28:16] [Server thread/INFO]: GloriaaLol[/127.117.17.135:52425] logged in with entity id 242 at (-25.909517692096603, 62.0, 31.874911163025537)
-[15:28:16] [Server thread/INFO]: GloriaaLol joined the game
-[15:33:39] [Server thread/WARN]: Eldemogorgon500 moved too quickly! -1412.1809230633896,20.392604549951344,-1108.8372960980046
-[15:36:04] [Server thread/INFO]: GloriaaLol has made the advancement [Remote Getaway]
-[15:36:05] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Remote Getaway]
-[15:36:44] [Server thread/INFO]: GloriaaLol was slain by Enderman
-[15:36:44] [Server thread/INFO]: Created new backpack backup file for GloriaaLol with unique ID 80156872-1693-4455-be94-f70744fca1fa
-[15:36:44] [Server thread/INFO]: Your backpack has been placed at X: -644 Y: 60 Z: 813
-[15:48:56] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[15:48:56] [Server thread/INFO]: Eldemogorgon500 left the game
-[15:49:13] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:51433] logged in with entity id 2839 at (-662.9935411427443, -99.16542966228938, 1545.3445861016453)
-[15:49:13] [Server thread/INFO]: Eldemogorgon500 joined the game
-[15:49:14] [Server thread/INFO]: Eldemogorgon500 fell out of the world
-[15:49:14] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID 214f504b-e5d5-495f-8306-577ebc85bd6f
-[15:49:14] [Server thread/INFO]: There's no space for backpack. Dropping backpack item at X: -663 Y: 5 Z: 1545
-[15:49:15] [Server thread/INFO]: [GloriaaLol: Teleported Eldemogorgon500 to GloriaaLol]
-[15:49:16] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18713(class_3898.java:939) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2828$class_2830.method_11054(class_2828.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:674) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[15:49:44] [Server thread/WARN]: GloriaaLol moved too quickly! 7.502793340241283,-1.0,-7.710600544596218
-[15:49:53] [Server thread/INFO]: [GloriaaLol: Teleported Eldemogorgon500 to GloriaaLol]
-[15:50:01] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Suit Up]
-[15:54:33] [Server thread/WARN]: GloriaaLol moved too quickly! -7.677772337528609,0.0,-7.976971266548162
-[15:56:29] [Server thread/INFO]: Eldemogorgon500 hit the ground too hard
-[15:56:56] [Server thread/INFO]: [GloriaaLol: Teleported Eldemogorgon500 to GloriaaLol]
-[15:57:23] [Server thread/INFO]: [GloriaaLol: Teleported Eldemogorgon500 to GloriaaLol]
-[16:00:43] [Server thread/INFO]: Eldemogorgon500 has made the advancement [The City at the End of the Game]
-[16:00:44] [Server thread/INFO]: GloriaaLol has made the advancement [The City at the End of the Game]
-[16:01:19] [Server thread/INFO]: GloriaaLol has made the advancement [Not Today, Thank You]
-[16:03:21] [Server thread/INFO]: Eldemogorgon500 was slain by Shulker
-[16:04:09] [Server thread/INFO]: [GloriaaLol: Gave 200 [Bread] to 2]
-[16:04:09] [Server thread/INFO]: Eldemogorgon500 was slain by Silverfish
-[16:06:07] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
-[16:08:30] [Server thread/WARN]: Eldemogorgon500 moved too quickly! -1412.6759903620375,20.26590000152588,-1108.2627122523872
-[16:08:30] [Server thread/WARN]: Entity class_3222['Eldemogorgon500'/2839, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[16:10:10] [Server thread/INFO]: GloriaaLol has reached the goal [Sky's the Limit]
-[16:10:37] [Server thread/INFO]: GloriaaLol has made the advancement [Local Brewery]
-[16:12:09] [Server thread/INFO]: Eldemogorgon500 was slain by Silverfish
-[16:12:38] [Server thread/INFO]: Eldemogorgon500 was burnt to a crisp whilst fighting Silverfish
-[16:13:10] [Server thread/INFO]: Eldemogorgon500 was slain by Silverfish
-[16:13:24] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava to escape Silverfish
-[16:13:34] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
-[16:14:36] [Server thread/INFO]: Eldemogorgon500 was burnt to a crisp whilst fighting Silverfish
-[16:15:02] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava to escape Silverfish
-[16:15:46] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava to escape Silverfish
-[16:21:57] [Server thread/INFO]: GloriaaLol was slain by Enderman
-[16:21:57] [Server thread/INFO]: Created new backpack backup file for GloriaaLol with unique ID f15f4a82-8e5f-4b70-bca0-a664095abc2b
-[16:21:57] [Server thread/INFO]: Your backpack has been placed at X: 1260 Y: 46 Z: 1784
-[16:22:14] [Server thread/INFO]: GloriaaLol was slain by Eldemogorgon500
-[16:22:28] [Server thread/INFO]: [GloriaaLol: Teleported GloriaaLol to 1260.5, 46.0, 1784.5]
-[16:23:27] [Server thread/INFO]: <Eldemogorgon500> 8er
-[16:23:32] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
-[16:28:11] [Server thread/INFO]: Eldemogorgon500 has reached the goal [Sky's the Limit]
-[16:28:25] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Isn't It Iron Pick]
-[16:34:33] [Server thread/INFO]: Eldemogorgon500 was slain by Spider
-[16:35:17] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
-[16:35:31] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
-[16:40:01] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[16:42:48] [Server thread/INFO]: Eldemogorgon500 fell from a high place
-[16:45:55] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[16:45:55] [Server thread/INFO]: Eldemogorgon500 left the game
-[16:46:32] [Server thread/INFO]: GloriaaLol lost connection: Disconnected
-[16:46:32] [Server thread/INFO]: GloriaaLol left the game
-[19:09:12] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:44119] logged in with entity id 18608 at (727.3000000119209, 72.5625, 567.6999999880791)
-[19:09:12] [Server thread/INFO]: Eldemogorgon500 joined the game
-[19:12:35] [Server thread/INFO]: Eldemogorgon500 was slain by Zombie
-[19:17:38] [Server thread/INFO]: Eldemogorgon500 was blown up by Creeper
-[19:23:25] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[19:46:45] [Server thread/INFO]: Eldemogorgon500 fell from a high place
-[19:48:22] [Server thread/INFO]: Eldemogorgon500 was blown up by Creeper
-[19:49:58] [Server thread/INFO]: Eldemogorgon500 was blown up by Creeper
-[19:51:28] [Server thread/INFO]: Eldemogorgon500 was shot by Skeleton
-[20:04:08] [Server thread/INFO]: Eldemogorgon500 has made the advancement [Not Today, Thank You]
-[20:09:05] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[20:09:05] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID a3141c8f-d52d-4d4f-ae8b-50655b82caa4
-[20:09:05] [Server thread/INFO]: Your backpack has been placed at X: 678 Y: 68 Z: 518
-[20:21:18] [Server thread/INFO]: Villager class_1646['Villager'/28356, l='ServerLevel[world]', x=718.70, y=63.80, z=594.70] died, message: 'Villager was slain by Zombie'
-[20:22:10] [Server thread/INFO]: Villager class_1646['Farmer'/28350, l='ServerLevel[world]', x=727.30, y=68.00, z=568.54] died, message: 'Farmer was slain by Zombie'
-[20:23:11] [Server thread/INFO]: Villager class_1646['Butcher'/28370, l='ServerLevel[world]', x=761.99, y=63.00, z=542.30] died, message: 'Butcher was slain by Zombie'
-[20:23:15] [Server thread/INFO]: Eldemogorgon500 was slain by Iron Golem
-[20:23:15] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID e05aae73-e2ce-4204-9d3c-b67a302ad9c7
-[20:23:15] [Server thread/INFO]: Your backpack has been placed at X: 720 Y: 68 Z: 568
-[20:39:53] [Server thread/INFO]: Eldemogorgon500 was slain by Zombified Piglin
-[20:39:53] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID 648eaa13-8e87-4920-ada7-d764f15da1c8
-[20:39:53] [Server thread/INFO]: Your backpack has been placed at X: 148 Y: 44 Z: 25
-[20:44:07] [Server thread/WARN]: Eldemogorgon500 moved too quickly! 0.5429982563958902,-10.527779342547746,-0.6595106839892111
-[20:44:09] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[20:44:09] [Server thread/INFO]: Eldemogorgon500 left the game
-[20:44:18] [Server thread/INFO]: Eldemogorgon500[/127.173.8.168:45493] logged in with entity id 33840 at (145.473247805058, 27.005735882505128, 53.597761407370335)
-[20:44:18] [Server thread/INFO]: Eldemogorgon500 joined the game
-[20:44:22] [Server thread/INFO]: Eldemogorgon500 tried to swim in lava
-[20:44:22] [Server thread/INFO]: Created new backpack backup file for Eldemogorgon500 with unique ID bafe091f-48fd-45d6-8f91-f33ba25ff493
-[20:44:22] [Server thread/INFO]: Your backpack has been placed at X: 145 Y: 27 Z: 53
-[20:44:46] [Server thread/INFO]: Eldemogorgon500 lost connection: Disconnected
-[20:44:46] [Server thread/INFO]: Eldemogorgon500 left the game
+[15May2025 22:14:22.827] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15May2025 22:14:22.831] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[15May2025 22:14:22.927] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/serversmp/servidor_minecraft/config/fml.toml is not correct. Correcting
+[15May2025 22:14:22.929] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[15May2025 22:14:22.929] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[15May2025 22:14:22.930] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[15May2025 22:14:22.930] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[15May2025 22:14:22.945] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15May2025 22:14:22.990] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serversmp/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15May2025 22:14:23.169] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serversmp/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15May2025 22:14:23.170] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serversmp/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15May2025 22:14:23.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serversmp/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15May2025 22:14:23.172] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serversmp/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15May2025 22:14:23.252] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[15May2025 22:14:24.403] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15May2025 22:14:30.304] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15May2025 22:14:30.307] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15May2025 22:14:30.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15May2025 22:14:31.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15May2025 22:14:32.047] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15May2025 22:14:32.092] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serversmp/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[15May2025 22:14:32.093] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serversmp/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[15May2025 22:14:34.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[15May2025 22:14:34.182] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[15May2025 22:14:34.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15May2025 22:14:34.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15May2025 22:14:34.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15May2025 22:14:34.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15May2025 22:14:34.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15May2025 22:14:34.861] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15May2025 22:14:34.932] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15May2025 22:14:34.932] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15May2025 22:14:34.932] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15May2025 22:14:34.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15May2025 22:14:34.957] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[15May2025 22:14:34.958] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15May2025 22:14:34.958] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[15May2025 22:14:34.959] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[15May2025 22:14:34.959] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[15May2025 22:14:34.960] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[15May2025 22:14:34.960] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[15May2025 22:14:34.960] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[15May2025 22:14:34.961] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[15May2025 22:14:34.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15May2025 22:14:41.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15May2025 22:14:42.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:14:42.050] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:14:42.391] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:14:42.825] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:14:43.335] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:14:43.831] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15May2025 22:14:44.323] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[15May2025 22:14:44.837] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[15May2025 22:14:45.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[15May2025 22:14:45.857] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[15May2025 22:14:46.330] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[15May2025 22:14:46.829] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[15May2025 22:14:47.322] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[15May2025 22:14:47.843] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[15May2025 22:14:48.325] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[15May2025 22:14:48.830] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[15May2025 22:14:49.338] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[15May2025 22:14:49.837] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[15May2025 22:14:50.327] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[15May2025 22:14:50.837] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[15May2025 22:14:51.439] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[15May2025 22:14:51.824] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[15May2025 22:14:52.333] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[15May2025 22:14:52.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[15May2025 22:14:53.323] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[15May2025 22:14:53.872] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[15May2025 22:14:54.325] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[15May2025 22:14:54.823] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[15May2025 22:14:55.321] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[15May2025 22:14:55.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[15May2025 22:14:56.322] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[15May2025 22:14:56.833] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[15May2025 22:14:57.322] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[15May2025 22:14:57.845] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[15May2025 22:14:58.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[15May2025 22:14:58.824] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[15May2025 22:14:59.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[15May2025 22:14:59.824] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[15May2025 22:15:00.328] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[15May2025 22:15:00.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[15May2025 22:15:01.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[15May2025 22:15:01.835] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[15May2025 22:15:02.341] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[15May2025 22:15:02.849] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[15May2025 22:15:03.328] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[15May2025 22:15:03.823] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[15May2025 22:15:04.326] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[15May2025 22:15:04.822] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[15May2025 22:15:05.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[15May2025 22:15:05.824] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[15May2025 22:15:06.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[15May2025 22:15:06.823] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[15May2025 22:15:06.895] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25575 ms
+[15May2025 22:15:06.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.947s)! For help, type "help"
+[15May2025 22:15:06.912] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
